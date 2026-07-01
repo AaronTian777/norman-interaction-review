@@ -1,6 +1,6 @@
 # Norman Interaction Review
 
-An experimental Codex skill for applying Don Norman-inspired interaction design principles to UI/UX, frontend-backend interaction, and customer-facing interface decisions.
+A Codex skill for applying Don Norman-inspired interaction design principles to UI/UX, frontend-backend interaction, and customer-facing interface decisions.
 
 This is not a book summary. It is a practical review and decision framework for interface work: forms, dashboards, onboarding, permissions, async states, error handling, destructive actions, and product-flow judgment.
 
@@ -32,7 +32,7 @@ Use $norman-interaction-review to review this interface flow and recommend inter
 ## Notes
 
 - This project contains no text copied from Don Norman's books.
-- It is an independent experimental skill inspired by widely discussed interaction design concepts such as discoverability, signifiers, mapping, feedback, conceptual models, constraints, errors, the seven stages of action, and human-centered design.
+- It is an independent skill inspired by widely discussed interaction design concepts such as discoverability, signifiers, mapping, feedback, conceptual models, constraints, errors, the seven stages of action, and human-centered design.
 - It is not affiliated with Don Norman, Basic Books, Nielsen Norman Group, or any publisher.
 
 ## License

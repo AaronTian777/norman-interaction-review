@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+.firecrawl/
+.codex/
+node_modules/
+__pycache__/
+*.pyc

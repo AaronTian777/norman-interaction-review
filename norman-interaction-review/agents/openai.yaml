@@ -1,0 +1,4 @@
+interface:
+  display_name: "Norman Interaction Review"
+  short_description: "Use Don Norman principles for UI/UX decisions"
+  default_prompt: "Use $norman-interaction-review to review this interface flow and recommend interaction improvements."
